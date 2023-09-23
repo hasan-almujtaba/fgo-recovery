@@ -10,7 +10,7 @@ const currentModulePath = url
 
 const itemsToRemove: string[] = [
   'components/base/button',
-  'components/base/button',
+  'components/base/card',
   'features/information',
   'features/user',
   'styles/button.css',

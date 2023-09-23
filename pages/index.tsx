@@ -1,7 +1,6 @@
 import Head from 'next/head'
 
 import { DefaultLayout } from 'components/layouts'
-import { FeatureList } from 'features/information'
 import { NextPageWithLayout } from 'types'
 
 const Home: NextPageWithLayout = () => {
@@ -11,7 +10,9 @@ const Home: NextPageWithLayout = () => {
         <title>Home</title>
       </Head>
 
-      <FeatureList />
+      {/* <div>
+        <h3>fgo recovery</h3>
+      </div> */}
     </>
   )
 }

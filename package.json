@@ -13,6 +13,7 @@
     "cleanup": "esno cleanup.ts"
   },
   "dependencies": {
+    "@fontsource-variable/inter": "^5.0.8",
     "@headlessui/react": "^1.7.17",
     "@heroicons/react": "^2.0.18",
     "@tanstack/react-query": "^4.35.3",
